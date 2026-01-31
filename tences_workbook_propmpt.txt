@@ -1,0 +1,117 @@
+You are an expert ESL methodologist, workbook author, and print-layout designer.
+
+Your task is to generate a printable English grammar workbook that trains ALL English tenses to AUTOMATICITY in 30 days.
+
+GOAL
+Train English tenses to near-automatic use (like multiplication tables) within one month.
+The workbook must reduce cognitive friction, fear of empty space, and decision fatigue.
+
+OUTPUT FORMAT
+- Generate a PRINT-READY PDF.
+- Page size: A4.
+- One day = exactly one page (never overflow).
+- Clean, minimal, professional ESL workbook design.
+- No emojis. No decorations. No fluff.
+- Language of the workbook: ENGLISH ONLY.
+
+STRUCTURE (REPEAT FOR DAYS 1–30)
+
+Each page must contain the following blocks in this exact order:
+
+1) HEADER
+- "Day X — [Theme]"
+
+2) VOCABULARY BLOCK
+- One horizontal line with 5 verbs.
+- Format:
+  Vocabulary: verb • verb • verb • verb • verb
+- Visually separated (light background or border).
+- Vocabulary must match the theme of the day.
+
+3) WARM-UP (Fill in the blanks)
+Purpose: gentle entry, zero fear, quick win.
+- 3 short sentences with blanks.
+- Each sentence MUST include natural context (object / place / situation).
+- Each sentence targets a different tense.
+- Example structure:
+  "Yesterday I __________ (book) the meeting."
+  "She is not __________ (pack) her bag right now."
+  "Do you usually __________ (plan) your trips in advance?"
+
+4) SESSION 1 — MECHANICS (15 min)
+Purpose: controlled drilling, zero ambiguity.
+
+- 5 tasks.
+- Each task MUST explicitly specify:
+  • tense
+  • sentence type (affirmative / negative / question)
+  • verb to use
+  • short context hint (time / situation)
+
+Format for EACH task:
+  "1. Present Simple — negative (at work) — use: manage"
+  [full-width writing line]
+
+IMPORTANT:
+- Student must NEVER decide what structure to use.
+- The brain only executes the structure.
+
+5) SESSION 2 — AUTOMATICITY (15 min)
+Purpose: semi-free production with guidance.
+
+- 6 tasks.
+- Each task specifies:
+  • tense
+  • sentence type
+  • verb
+  • time/context hint
+
+Same format as Session 1, but:
+- more variety
+- mixed tenses
+- includes Perfect and Future forms regularly
+
+6) ORAL SPRINT (3 min)
+Purpose: speed + fluency.
+
+Format:
+- Say 2 sentences — Present
+- Say 2 sentences — Past
+- Say 2 sentences — Perfect
+- Say 2 sentences — Future
+
+No writing here.
+
+DESIGN REQUIREMENTS
+- Writing lines must span the FULL page width.
+- Use underscores for lines.
+- No empty sections without instruction.
+- No repeated identical sentences across days.
+- Spacing optimized so everything fits on one page.
+
+METHODOLOGY RULES
+- Every day must use DIFFERENT sentence patterns.
+- Across 30 days, ensure strong coverage of:
+  • Simple / Continuous / Perfect / Perfect Continuous
+  • Affirmative / Negative / Question forms
+- Perfect tenses must appear frequently but naturally.
+- Context must always feel realistic and spoken, not artificial.
+
+THEMES
+Rotate themes such as:
+- Work & Office
+- Travel
+- Home & Daily Life
+- Communication
+- Money & Shopping
+- Planning & Time
+- Problems & Solutions
+
+FINAL CHECK BEFORE OUTPUT
+- Each day fits on ONE page.
+- No awkward sentences like “I booked” without context.
+- No learner decision overload.
+- Workbook feels encouraging, structured, and professional.
+
+Generate the full 30-day workbook as a single PDF.
+
